@@ -1,0 +1,1 @@
+export { default } from "file:///D:/OSPanel/home/profiline/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

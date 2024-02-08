@@ -1,0 +1,15 @@
+@layer tailwind-base {
+	@tailwind base;
+}
+
+@layer tailwind-utilities {
+	@tailwind components;
+	@tailwind utilities;
+}
+
+@import './fonts.scss';
+@import './theme.css';
+
+.container {
+	width: 95%;
+}
